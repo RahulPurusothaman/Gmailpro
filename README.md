@@ -9,7 +9,7 @@ Marks all messages in the configured Gmail account as unread using the Gmail API
 3. Create a `.env` file:
 
 ```text
-GMAIL_EMAIL=rahulsnsihub@gmail.com
+GMAIL_EMAIL=youremaiiid@gmail.com
 GMAIL_CREDENTIALS_FILE=credentials.json
 ```
 
